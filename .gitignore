@@ -1,0 +1,30 @@
+# Compiled source #
+###################
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+*.war
+.metadata
+
+# Logs and databases #
+######################
+*.log
+
+#filepath
+target
+build
+WebRoot/WEB-INF/classes
+bin/
+
